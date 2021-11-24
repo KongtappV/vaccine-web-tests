@@ -34,6 +34,5 @@ Robot Framework or Cucumber with Selenium/HTTP library and JUnit?**
     - I think that robot framework is better than cucumber because when testing with robot framework you can see the 
   test working in your browser in real time. and in the terminal also told us very clearly if something goes wrong.
 * **What tutorial or online resource(s) did you find most helpful for learning Robot Framework?**
-    - Vichisorn sent me some tutorial video he found on how to start with robot framework 
-  (mostly just the basics of it) I watch only two videos.
+    - I found robotframework Introduction videos in Youtube which contains how to setup and basics about the framework.
     - [Introduction to Robot Framework - Youtube](https://www.youtube.com/watch?v=UbYxkUq0Hec&list=PLUDwpEzHYYLsCHiiihnwl3L0xPspL7BPG&ab_channel=SDET-QAAutomationTechie)
